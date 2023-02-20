@@ -1,1 +1,1 @@
-A repository for coding in Pyhton Language
+A repository for programming in Pyhton and Javascript
